@@ -1,6 +1,19 @@
 # Basecracker
 A tool using bruteforce approach to crack bases of any encoding
 
+### List of crackable Bases
+- Base 16
+- Base 32
+- Base 36
+- Base 45
+- Base 58
+- Base 62
+- Base 64
+- Base 85
+- Base 91
+- Base 32768
+- Base 65536
+
 Usage
 
 ![image](https://user-images.githubusercontent.com/55373148/207510382-ac4797e3-04e1-49db-b82f-2dd01e7932f1.png)
